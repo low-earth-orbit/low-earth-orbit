@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Leo. I am a full-stack web developer based in Fredericton, New Brunswick, Canada.
+
+- 🛠️ I usually use the `MERN stack` for web development.
+
+- 📈 I'm currently learning `AWS`.
+
+Connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leo-hong)
