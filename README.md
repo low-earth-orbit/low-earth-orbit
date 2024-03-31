@@ -21,4 +21,8 @@ My name is Leo. I am a full-stack web developer based in Fredericton, New Brunsw
 
 - 📈 I'm currently learning `AWS`.
 
+Stinking badges:
+
+![AWS Certified Cloud Practitioner](/assets/aws-certified-cloud-practitioner.png)![AWS Certified Solutions Architect – Associate](/assets/aws-certified-solutions-architect-associate.png)
+
 Connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leo-hong)
