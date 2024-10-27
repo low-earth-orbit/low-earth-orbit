@@ -1,11 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Leo Hong. I am a full-stack web developer based out of Fredericton, New Brunswick, Canada.
 
-❤️‍🔥 Prefer the MERN stack — `React`, `Next.js`, `Node/Express`, `GraphQL`, `MongoDB` — for web development.
+❤️ I prefer the MERN stack (`React` + `Node.js/Express` + `NoSQL`) for web development.
 
-☀️ Have some exposure to `Python`, `Java`, `C/C++`, `Kotlin`, `Vue.js`, `Postgres`, `MySQL`, `Pandas`.
+☀️ Some exposure to `Java`, `Python`, `PostgreSQL`, `MySQL`, etc.
 
-🪴 Currently learning AWS / earning stinking badges.
+🪴 Currently learning AWS / system design.
 
 🧠 Interested in all sorts of stuff to satisfy my intellectual curiosity.
+
+If you're new to software development, checkout my [Web Development
+Starter Guide](https://github.com/low-earth-orbit/notes/blob/main/web-dev-starter-guide.md).
