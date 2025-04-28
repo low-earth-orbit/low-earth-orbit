@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I'm Leo** — a full-stack web developer based out of [📍Fredericton, Canada](https://www.google.ca/maps/place/Fredericton,+NB/)
+**I'm Leo** — a full-stack web developer based out of 📍[Fredericton, Canada](https://www.google.ca/maps/place/Fredericton,+NB/)
 
 😄 I prefer the MERN stack for web development.
 
