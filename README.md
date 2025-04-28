@@ -22,4 +22,4 @@ If you're new to software development, checkout my
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,redux,next,graphql,nodejs,express,aws,postgres,dynamodb,java,py)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,redux,next,graphql,nodejs,express,aws,postgres,dynamodb,java,py)](https://github.com/low-earth-orbit)
