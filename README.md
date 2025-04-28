@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**low-earth-orbit/low-earth-orbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Leo** — a full-stack web developer based out of [📍Fredericton, Canada](https://www.google.ca/maps/place/Fredericton,+NB/)
 
-Here are some ideas to get you started:
+😄 I prefer the MERN stack for web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☀️ I have some exposure to `Java` (backend), `Python` (data science), `PostgreSQL` (database), etc.
+
+🌱 I'm currently learning
+
+- React (`Next.js`, `Tanstack`)
+- AWS
+- distributed systems
+- AI
+
+## Writing
+
+If you're new to software development, checkout my
+
+- [Web Development
+  Starter Guide](https://github.com/low-earth-orbit/notes/blob/main/web-dev-starter-guide.md)
+
+## My Skills
+
+![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,redux,next,graphql,nodejs,express,aws,postgres,dynamodb,java,py)
