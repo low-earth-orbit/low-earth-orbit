@@ -8,10 +8,10 @@
 
 🌱 I'm currently learning
 
-- React (`Next.js`, `Tanstack`)
+- AI
+- Node Backend
 - AWS
 - distributed systems
-- AI
 
 ## Writing
 
@@ -22,4 +22,4 @@ If you're new to software development, checkout my
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,next,graphql,nodejs,express,aws,postgres,dynamodb,java,py)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,next,graphql,nodejs,express,aws,postgres,dynamodb)]()
