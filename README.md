@@ -2,16 +2,16 @@
 
 **I'm Leo** — a full-stack web developer based out of 📍[Fredericton, Canada](https://www.google.ca/maps/place/Fredericton,+NB/)
 
-😄 I prefer the `MERN` stack for web development.
+😄 I use the full modern stack (Next.js + React) for web development
 
-☀️ I have some exposure to `Java` (backend), `Python` (data science), `PostgreSQL` (database), etc.
+☀️ I have some exposure to `Java`, `Node`, `REST APIs`, `GraphQL` query, `PostgreSQL`, `AWS`, `Python` (AI/ML/data science), etc.
 
 🌱 I'm currently learning
 
 - AI
+- Next.js
 - Node Backend
 - AWS
-- distributed systems
 
 ## Writing
 
@@ -22,4 +22,4 @@ If you're new to software development, checkout my
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,next,graphql,nodejs,express,aws,postgres,dynamodb)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,react,next,graphql,nodejs,aws,postgres)]()
